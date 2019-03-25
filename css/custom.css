@@ -1,0 +1,12 @@
+.nav {
+  padding-top: 10px;
+}
+
+.nav img{
+  float: left;
+}
+
+.nav h4 {
+  line-height: 100px;
+  float: right;
+}
