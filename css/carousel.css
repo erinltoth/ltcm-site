@@ -10,9 +10,8 @@ body {
   color: #5a5a5a;
 }
 
-nav h4 {
+.nav-link {
   color: red;
-  position: relative;
 }
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -37,6 +36,7 @@ nav h4 {
   left: 0;
   min-width: 100%;
   height: 32rem;
+  opacity: 0.75; 
 }
 
 

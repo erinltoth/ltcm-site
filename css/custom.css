@@ -1,12 +1,12 @@
-.nav {
-  padding-top: 10px;
+a.nav-link {
+  color: #F02D3A !important;
+  font-size: 1.5rem;
 }
 
-.nav img{
-  float: left;
+div.navbar-collapse {
+  padding-right: 30px;
 }
 
-.nav h4 {
-  line-height: 100px;
-  float: right;
+.carousel-caption {
+  color: black;
 }
